@@ -1,2 +1,2 @@
 run: fb
-	./fb
+	bash -c 'time ./fb'
